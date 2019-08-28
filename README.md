@@ -5,5 +5,8 @@
 
 ####Created By
 <a class="twitter-follow-button"
-  href="https://twitter.com/TwitterDev">
-Follow @jdonsec</a>
+  href="https://twitter.com/jdonsec"
+  data-size="large"
+  data-show-count="false">
+@jdonsec</a>
+
