@@ -8,5 +8,10 @@
 [Twitter @jdonsec](https://twitter.com/jdonsec)
 
 ---
+#### Cheat Sheets
+
+- [SSRF bible](https://repo.zenk-security.com/Techniques%20d.attaques%20%20.%20%20Failles/SSRFbible%20Cheatsheet.pdf)
+
+
 
 
