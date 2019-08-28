@@ -5,9 +5,8 @@
 
 ####Created By
 ---
-<a class="twitter-follow-button"
-  href="https://twitter.com/jdonsec">
-@jdonsec</a>
+[Twitter @jdonsec](https://twitter.com/jdonsec)
+
 ---
 
 
