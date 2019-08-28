@@ -4,4 +4,6 @@
 ![SSRF Logo](/images/ssrf.jpg)
 
 ####Created By
-<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-follow-button"
+  href="https://twitter.com/TwitterDev">
+Follow @jdonsec</a>
