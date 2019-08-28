@@ -4,9 +4,8 @@
 ![SSRF Logo](/images/ssrf.jpg)
 
 ####Created By
+---
 <a class="twitter-follow-button"
-  href="https://twitter.com/jdonsec"
-  data-size="large"
-  data-show-count="false">
+  href="https://twitter.com/jdonsec">
 @jdonsec</a>
 
