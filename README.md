@@ -14,6 +14,8 @@ This is currently work in progress I will add more resources as I find them.
 
 - [What is SSRF By Netsparker](https://www.netsparker.com/blog/web-security/server-side-request-forgery-vulnerability-ssrf/)
 
+- [Hackerone How To: Server-Side Request Forgery(SSRF)](https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF)
+
 - [Infosec Institute SSRF Introduction](https://resources.infosecinstitute.com/the-ssrf-vulnerability/)
 
 - [SSRF bible](https://repo.zenk-security.com/Techniques%20d.attaques%20%20.%20%20Failles/SSRFbible%20Cheatsheet.pdf)
@@ -26,6 +28,7 @@ This is currently work in progress I will add more resources as I find them.
 
 - [HAHWUL](https://www.hahwul.com/p/ssrf-open-redirect-cheat-sheet.html)
 
+- [Acunetix What is Server Side Request Forgery(SSRF)?](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
 
 
 
