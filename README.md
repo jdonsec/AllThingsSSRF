@@ -107,6 +107,36 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [GitLab SSRF in project integrations (webhook)](https://gitlab.com/gitlab-org/gitlab-ce/issues/53242)
 
+#### Hackerone Reports
+
+- [#223203 SVG Server Side Request Forgery (SSRF)](https://hackerone.com/reports/223203)
+
+- [115857 SSRF and local file read in video to gif converter](https://hackerone.com/reports/115857)
+
+- [237381 SSRF and local file disclosure in https://wordpress.com/media/videos/ via FFmpeg HLS processing](https://hackerone.com/reports/237381)
+
+- [228377 SSRF in upload IMG through URL](https://hackerone.com/reports/228377)
+
+- [302885 ImageMagick GIF coder vulnerability leading to memory disclosure](https://hackerone.com/reports/302885)
+
+- [392859 Sending Emails from DNSDumpster - Server-Side Request Forgery to Internal SMTP Access](https://hackerone.com/reports/392859)
+
+- [395521 SSRF vulnerability on proxy.duckduckgo.com (access to metadata server on AWS)](https://hackerone.com/reports/395521)
+
+- [285380 www.threatcrowd.org - SSRF : AWS private key disclosure](https://hackerone.com/reports/285380)
+
+- [287762 SSRF protection bypass](https://hackerone.com/reports/287762)
+
+- [115748 SSRF in https://imgur.com/vidgif/url](https://hackerone.com/reports/115748)
+
+- [508459 SSRF in webhooks leads to AWS private keys disclosure](https://hackerone.com/reports/508459)
+
+- [643622 SSRF In Get Video Contents](https://hackerone.com/reports/643622)
+
+#### Videos/POC
+
+- [Muhammad Junaid Yahoo SSRF and Local File Disclosure via FFmpeg](https://www.youtube.com/watch?v=3Z_f69OIQuw)
+
 #### Tools
 
 - [Bcoles SSRF Proxy](https://bcoles.github.io/ssrf_proxy/)
