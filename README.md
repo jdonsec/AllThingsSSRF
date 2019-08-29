@@ -5,9 +5,7 @@ This is currently work in progress I will add more resources as I find them.
 
 ![SSRF Logo](/images/ssrf.jpg)
 
-### Created By
----
-[Twitter @jdonsec](https://twitter.com/jdonsec)
+### Created By [@jdonsec](https://twitter.com/jdonsec)
 
 ---
 #### Cheatsheets
