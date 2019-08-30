@@ -166,25 +166,37 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [341876 André Baptista (0xacb): SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)
 
+- ![New](/images/new-icon-gif.jpg) [374737 ruvlol (ruvlol): Blind SSRF on errors.hackerone.net due to Sentry misconfiguration](https://hackerone.com/reports/374737)
+
+- ![New](/images/new-icon-gif.jpg) [386292 Elb (elber): Bypass of the SSRF protection in Event Subscriptions parameter](https://hackerone.com/reports/386292)
+
+- ![New](/images/new-icon-gif.jpg)  [411865 Robinooklay: Blind SSRF at https://chaturbate.com/notifications/update_push/](https://hackerone.com/reports/411865)
+
 #### Videos/POC
 
-- [Black Hat Viral Video - Exploiting SSRF in Video Converters](https://www.youtube.com/watch?v=tZil9j7TTps&feature=youtu.be)
+- [Black Hat: Viral Video - Exploiting SSRF in Video Converters](https://www.youtube.com/watch?v=tZil9j7TTps&feature=youtu.be)
 
-- [Hackerone Hacker101 - SSRF](https://www.youtube.com/watch?v=66ni2BTIjS8)
+- [Hackerone: Hacker101 - SSRF](https://www.youtube.com/watch?v=66ni2BTIjS8)
 
-- [Muhammad Junaid Yahoo SSRF and Local File Disclosure via FFmpeg](https://www.youtube.com/watch?v=3Z_f69OIQuw)
+- [Muhammad Junaid: Yahoo SSRF and Local File Disclosure via FFmpeg](https://www.youtube.com/watch?v=3Z_f69OIQuw)
 
-- [Muhammad Junaid Flickr (Yahoo!) SSRF and Local File Disclosure](https://www.youtube.com/watch?v=v3YQqTb5geU)
+- [Muhammad Junaid: Flickr (Yahoo!) SSRF and Local File Disclosure](https://www.youtube.com/watch?v=v3YQqTb5geU)
 
-- [Corben Leo SMTP Access via SSRF in HackerTarget API](https://www.youtube.com/watch?v=F_sC_OrSkIc)
+- [Corben Leo: SMTP Access via SSRF in HackerTarget API](https://www.youtube.com/watch?v=F_sC_OrSkIc)
 
-- [Nikhil Mittal HootSuite SSRF Vulnerability POC](https://www.youtube.com/watch?v=L9bGSNmlJXU)
+- [Nikhil Mittal: HootSuite SSRF Vulnerability POC](https://www.youtube.com/watch?v=L9bGSNmlJXU)
 
-- [Hack In The Box Security Conference HITBGSEC 2017 SG Conf D1 - A New Era Of SSRF - Exploiting Url Parsers - Orange Tsai](https://www.youtube.com/watch?v=D1S-G8rJrEk)
+- [Hack In The Box Security Conference: HITBGSEC 2017 SG Conf D1 - A New Era Of SSRF - Exploiting Url Parsers - Orange Tsai](https://www.youtube.com/watch?v=D1S-G8rJrEk)
 
-- [Crazy Danish Hacker Server-Side Request Forgery (SSRF) - Web Application Security Series #1](https://www.youtube.com/watch?v=K_ElxRc9LLk)
+- [Crazy Danish Hacker: Server-Side Request Forgery (SSRF) - Web Application Security Series #1](https://www.youtube.com/watch?v=K_ElxRc9LLk)
 
-- [LiveOverFlow PHP include and bypass SSRF protection with two DNS A records - 33c3ctf list0r (web 400)](https://www.youtube.com/watch?v=PKbxK2JH23Y)
+- [LiveOverFlow: PHP include and bypass SSRF protection with two DNS A records - 33c3ctf list0r (web 400)](https://www.youtube.com/watch?v=PKbxK2JH23Y)
+
+- ![New](/images/new-icon-gif.jpg) [Nahamsec: Owning the Clout through SSRF & PDF Generators - Defcon 27 - (SSRF on ads.snapchat.com)](https://www.youtube.com/watch?v=Gcab8sLBmnk)
+
+- ![New](/images/new-icon-gif.jpg) [Tutorials Point (India) Pvt. Ltd: Penetration Testing - Server Side Request Forgery (SSRF)](https://www.youtube.com/watch?v=_IVjvNelzMw)
+
+- ![New](/images/new-icon-gif.jpg) [Hack In The Box Security Conference: HITBGSEC 2017 SG Conf D1 - A New Era Of SSRF - Exploiting Url Parsers - Orange Tsai](https://www.youtube.com/watch?v=D1S-G8rJrEk)
 
 #### Tools
 
