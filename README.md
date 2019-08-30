@@ -16,6 +16,8 @@ This is currently work in progress I will add more resources as I find them.
 
 - [Hackerone How To: Server-Side Request Forgery(SSRF)](https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF)
 
+- [Nahamsec/Daeken OWNING THE CLOUT THROUGH SSRF AND PDF GENERATORS](https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/edit#slide=id.p)
+
 - [Orange Tsai A New Era of SSRF - Exploiting URL Parser in
 Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
 
@@ -45,7 +47,16 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [AUXY Blog SSRF in Depth](http://www.auxy.xyz/research/2017/07/06/all-ssrf-knowledge.html)
 
+- [CTF Wiki SSRF Introduction](https://ctf-wiki.github.io/ctf-wiki/web/ssrf/)
+
+- [Orangetw CTF SSRF Writeup](https://github.com/orangetw/My-CTF-Web-Challenges/blob/master/README.md#ssrfme)
+
+
 #### Writeups
+
+- [shub rathore Account Takeover Using CSRF(json-based)](https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc)
+
+- [Fireshell Security Team SunshineCTF - Search Box Writeup](https://fireshellsecurity.team/sunshinectf-search-box/)
 
 - [SSRF vulnerability via FFmpeg HLS processing](https://medium.com/@valeriyshevchenko/ssrf-vulnerability-via-ffmpeg-hls-processing-f3823c16f3c7)
 
@@ -72,6 +83,8 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 - [Shorebreak Security SSRF’s up! Real World Server-Side Request Forgery (SSRF)](https://www.shorebreaksecurity.com/blog/ssrfs-up-real-world-server-side-request-forgery-ssrf/)
 
 - [Hack-Ed A Nifty SSRF Bug Bounty Write Up](https://hack-ed.net/2017/11/07/a-nifty-ssrf-bug-bounty-write-up/)
+
+- [abcdsh Asis 2019 Quals - Baby SSRF](https://abcdsh.blogspot.com/2019/04/writeup-asis-2019-quals-baby-ssrf.html)
 
 - [W00troot How I found SSRF on TheFacebook.com](https://w00troot.blogspot.com/2017/12/how-i-found-ssrf-on-thefacebookcom.html)
 
@@ -107,6 +120,18 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [GitLab SSRF in project integrations (webhook)](https://gitlab.com/gitlab-org/gitlab-ce/issues/53242)
 
+- [Maxime Leblanc Server-Side Request Forgery (SSRF) Attacks - Part 1: The basics](https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-1-the-basics-a42ba5cc244a)
+
+- [Maxime Leblanc Server-Side Request Forgery (SSRF) Attacks — Part 2: Fun with IPv4 addresses](https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-2-fun-with-ipv4-addresses-eb51971e476d)
+
+- [Maxime Leblanc Server-Side Request Forgery (SSRF) — Part 3: Other advanced techniques](https://medium.com/poka-techblog/server-side-request-forgery-ssrf-part-3-other-advanced-techniques-3f48cbcad27e)
+
+- [Maxime Leblanc Privilege escalation in the Cloud: From SSRF to Global Account Administrator](https://medium.com/poka-techblog/privilege-escalation-in-the-cloud-from-ssrf-to-global-account-administrator-fd943cf5a2f6)
+
+- [Asterisk Labs Server-side request forgery in Sage MicrOpay ESP](https://labs.asteriskinfosec.com.au/tag/ssrf/)
+
+- [EdOverflow Operation FGTNY 🗽 - Solving the H1-212 CTF](https://edoverflow.com/2017/h1-212-ctf/)
+
 #### Hackerone Reports
 
 - [#223203 SVG Server Side Request Forgery (SSRF)](https://hackerone.com/reports/223203)
@@ -133,6 +158,14 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [643622 SSRF In Get Video Contents](https://hackerone.com/reports/643622)
 
+- [398641 D0nut: SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641https://hackerone.com/reports/398641)
+
+- [398799 Jobert Abma (jobert): Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799)
+
+- [369451 Dylan Katz (plazmaz): SSRF in CI after first run](https://hackerone.com/reports/369451)
+
+- [341876 André Baptista (0xacb): SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)
+
 #### Videos/POC
 
 - [Black Hat Viral Video - Exploiting SSRF in Video Converters](https://www.youtube.com/watch?v=tZil9j7TTps&feature=youtu.be)
@@ -156,3 +189,21 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 #### Tools
 
 - [Bcoles SSRF Proxy](https://bcoles.github.io/ssrf_proxy/)
+
+#### CTF/Labs
+
+- [Bugbounty Notes SSRF Challenge](https://www.bugbountynotes.com/challenge?id=33)
+
+- [Portswigger SSRF labs](https://portswigger.net/web-security/ssrf)
+
+- [m6a-UdS SSRF Lab](https://github.com/m6a-UdS/ssrf-lab)
+
+- [Pentester Lab Pro account: Essential: Server Side Request Forgery 01](https://pentesterlab.com/exercises/ssrf_01/course)
+
+- [Pentester Lab Pro account: Essential: Server Side Request Forgery 02](https://pentesterlab.com/exercises/ssrf_02/course)
+
+- [Pentester Lab Pro account: Essential: Server Side Request Forgery 03](https://pentesterlab.com/exercises/ssrf_03/course)
+
+- [Pentester Lab Pro account: Essential: Server Side Request Forgery 04](https://pentesterlab.com/exercises/ssrf_04/course)
+
+- [Se8S0n SSRF Lab Guide](https://se8s0n.github.io/2019/05/19/SSRF-LABS%E6%8C%87%E5%8D%97/)
