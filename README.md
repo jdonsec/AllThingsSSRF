@@ -10,7 +10,11 @@ This is currently work in progress I will add more resources as I find them.
 ---
 #### Learn What is SSRF
 
-- [ Detectfy - What is server side request forgery (SSRF)?](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
+- [Vickie Li: Intro to SSRF](https://medium.com/@vickieli/intro-to-ssrf-f0a55c754f5a)
+
+-[Vickie Li: Exploiting SSRFs](https://medium.com/@vickieli/exploiting-ssrfs-b3a29dd7437)
+
+- [Detectfy - What is server side request forgery (SSRF)?](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
 
 - [What is SSRF By Netsparker](https://www.netsparker.com/blog/web-security/server-side-request-forgery-vulnerability-ssrf/)
 
@@ -74,6 +78,8 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [Vickie Li: Bypassing SSRF Protection](https://medium.com/@vickieli/bypassing-ssrf-protection-e111ae70727b)
 
+- [Vickie Li: SSRF in the Wild](https://medium.com/swlh/ssrf-in-the-wild-e2c598900434)
+
 - [Tug Pun: From SSRF to Local File Disclosure](https://medium.com/@tungpun/from-ssrf-to-local-file-disclosure-58962cdc589f)
 
 - [Neeraj Sonaniya: Reading Internal Files using SSRF vulnerability](https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb)
@@ -132,6 +138,8 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [EdOverflow: Operation FGTNY 🗽 - Solving the H1-212 CTF](https://edoverflow.com/2017/h1-212-ctf/)
 
+- [Alyssa Herrera: Piercing the Veil: Server Side Request Forgery to NIPRNet access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a)
+
 #### Hackerone Reports
 
 - [#223203 SVG Server Side Request Forgery (SSRF)](https://hackerone.com/reports/223203)
@@ -178,6 +186,8 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [Hackerone: Hacker101 - SSRF](https://www.youtube.com/watch?v=66ni2BTIjS8)
 
+- [Bugcrowd University: Server Side Request Forgery](https://www.bugcrowd.com/resources/webinars/server-side-request-forgery/)
+
 - [Muhammad Junaid: Yahoo SSRF and Local File Disclosure via FFmpeg](https://www.youtube.com/watch?v=3Z_f69OIQuw)
 
 - [Muhammad Junaid: Flickr (Yahoo!) SSRF and Local File Disclosure](https://www.youtube.com/watch?v=v3YQqTb5geU)
@@ -199,7 +209,7 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 - [Hack In The Box Security Conference: HITBGSEC 2017 SG Conf D1 - A New Era Of SSRF - Exploiting Url Parsers - Orange Tsai](https://www.youtube.com/watch?v=D1S-G8rJrEk)
 
 #### Tools
-
+ 
 - [Bcoles - SSRF Proxy](https://bcoles.github.io/ssrf_proxy/)
 
 - [Daeken - SSRFTest](https://github.com/daeken/SSRFTest)
