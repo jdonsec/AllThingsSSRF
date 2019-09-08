@@ -12,7 +12,7 @@ This is currently work in progress I will add more resources as I find them.
 
 - [Vickie Li: Intro to SSRF](https://medium.com/@vickieli/intro-to-ssrf-f0a55c754f5a)
 
--[Vickie Li: Exploiting SSRFs](https://medium.com/@vickieli/exploiting-ssrfs-b3a29dd7437)
+- [Vickie Li: Exploiting SSRFs](https://medium.com/@vickieli/exploiting-ssrfs-b3a29dd7437)
 
 - [Detectfy - What is server side request forgery (SSRF)?](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
 
