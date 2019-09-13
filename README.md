@@ -58,8 +58,6 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 #### Writeups
 
-- [shub rathore: Account Takeover Using CSRF(json-based)](https://medium.com/@shub66452/account-takeover-using-csrf-json-based-a0e6efd1bffc)
-
 - [Fireshell Security Team: SunshineCTF - Search Box Writeup](https://fireshellsecurity.team/sunshinectf-search-box/)
 
 - [SSRF vulnerability via FFmpeg HLS processing](https://medium.com/@valeriyshevchenko/ssrf-vulnerability-via-ffmpeg-hls-processing-f3823c16f3c7)
