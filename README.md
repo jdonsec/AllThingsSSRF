@@ -138,6 +138,10 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [Alyssa Herrera: Piercing the Veil: Server Side Request Forgery to NIPRNet access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a)
 
+- [Contribution by $root: Whomai -  Harsh Jaiswal: Vimeo SSRF with code execution potential.](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)
+
+- [Agarri: Server-side browsing considered harmful](https://www.agarri.fr/docs/AppSecEU15-Server_side_browsing_considered_harmful.pdf)
+
 #### Hackerone Reports
 
 - [#223203 SVG Server Side Request Forgery (SSRF)](https://hackerone.com/reports/223203)
@@ -177,6 +181,41 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 - [386292 Elb (elber): Bypass of the SSRF protection in Event Subscriptions parameter](https://hackerone.com/reports/386292)
 
 - [411865 Robinooklay: Blind SSRF at https://chaturbate.com/notifications/update_push/](https://hackerone.com/reports/411865)
+
+- [517461 Ninja: Blind SSRF/XSPA on dashboard.lob.com + blind code injection](https://hackerone.com/reports/517461)
+
+- [410882 Steven Seeley: Vanilla Forums domGetImages getimagesize Unserialize Remote Code Execution Vulnerability (critical)](https://hackerone.com/reports/410882)
+
+- [395521 Predrag Cujanović: SSRF vulnerability on proxy.duckduckgo.com (access to metadata server on AWS)](https://hackerone.com/reports/395521)
+
+- [223203 floyd: SVG Server Side Request Forgery (SSRF)](https://hackerone.com/reports/223203)
+
+- [301924 jax: SSRF vulnerability in gitlab.com webhook](https://hackerone.com/reports/301924)
+
+- [204513 Skansing: Infrastructure - Photon - SSRF](https://hackerone.com/reports/204513)
+
+- [115748 Eugene Farfel: SSRF in https://imgur.com/vidgif/url](https://hackerone.com/reports/115748)
+
+- [263169 Tung Pun: New Relic - Internal Ports Scanning via Blind SSRF](https://hackerone.com/reports/263169)
+
+- [280511 Suresh Narvaneni: Server Side Request Forgery on JSON Feed](https://hackerone.com/reports/280511)
+
+- [281950 Tung Pun: Infogram - Internal Ports Scanning via Blind SSRF](https://hackerone.com/reports/281950)
+
+- [289187 Predrag Cujanović: DNS pinning SSRF](https://hackerone.com/reports/289187)
+
+- [288183 Dr.Jones: SSRF bypass for https://hackerone.com/reports/285380 (query AWS instance)](https://hackerone.com/reports/288183)
+
+- [288537 e3xpl0it: Server Side Request Forgery protection bypass № 2](https://hackerone.com/reports/288537)
+
+- [141304 ylujion: Blind SSRF on synthetics.newrelic.com](https://hackerone.com/reports/141304)
+
+- [128685 Nicolas Grégoire: SSRF on testing endpoint](https://hackerone.com/reports/128685)
+
+- [145524 paglababa: Server side request forgery (SSRF) on nextcloud implementation.](https://hackerone.com/reports/145524)
+
+- [115857 Slim Shady: SSRF and local file read in video to gif converter](https://hackerone.com/reports/115857)
+
 
 #### Videos/POC
 
