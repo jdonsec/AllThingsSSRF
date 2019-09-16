@@ -138,6 +138,8 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [Alyssa Herrera: Piercing the Veil: Server Side Request Forgery to NIPRNet access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a)
 
+- [Alyssa Herrera: Wappalyzer SSRF Write up](https://medium.com/@alyssa.o.herrera/wappalyzer-ssrf-write-up-2dab4df064ae)
+
 - [Contribution by $root: Whomai -  Harsh Jaiswal: Vimeo SSRF with code execution potential.](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)
 
 - [Agarri: Server-side browsing considered harmful](https://www.agarri.fr/docs/AppSecEU15-Server_side_browsing_considered_harmful.pdf)
