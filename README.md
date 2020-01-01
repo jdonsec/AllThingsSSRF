@@ -247,6 +247,8 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [Hack In The Box Security Conference: HITBGSEC 2017 SG Conf D1 - A New Era Of SSRF - Exploiting Url Parsers - Orange Tsai](https://www.youtube.com/watch?v=D1S-G8rJrEk)
 
+- [AppSec EU15 - Nicolas Gregoire - Server-Side Browsing Considered Harmful](https://www.youtube.com/watch?v=8t5-A4ASTIU)
+
 #### Tools
  
 - [Bcoles - SSRF Proxy](https://bcoles.github.io/ssrf_proxy/)
