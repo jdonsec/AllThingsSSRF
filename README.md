@@ -10,7 +10,7 @@ This is currently work in progress I will add more resources as I find them.
 ---
 #### Learn What is SSRF
 
-- [Vickie Li: Intro to SSRF](https://medium.com/@vickieli/intro-to-ssrf-f0a55c754f5a)
+- [Vickie Li: Intro to SSRF](https://medium.com/swlh/intro-to-ssrf-beb35857771f)
 
 - [Vickie Li: Exploiting SSRFs](https://medium.com/@vickieli/exploiting-ssrfs-b3a29dd7437)
 
@@ -57,6 +57,8 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 
 #### Writeups
+
+- [@leonmugen: SSRF Reading Local Files from DownNotifier server](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)
 
 - [Fireshell Security Team: SunshineCTF - Search Box Writeup](https://fireshellsecurity.team/sunshinectf-search-box/)
 
