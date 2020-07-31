@@ -172,7 +172,7 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [643622 SSRF In Get Video Contents](https://hackerone.com/reports/643622)
 
-- [398641 D0nut: SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641https://hackerone.com/reports/398641)
+- [398641 D0nut: SSRF on duckduckgo.com/iu/](https://hackerone.com/reports/398641)
 
 - [398799 Jobert Abma (jobert): Unauthenticated blind SSRF in OAuth Jira authorization controller](https://hackerone.com/reports/398799)
 
