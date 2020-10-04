@@ -33,6 +33,8 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 
 - [Cujanovic - SSRF Testing](https://github.com/cujanovic/SSRF-Testing)
 
+- [Netsparker - SSRF TESTING](https://www.netsparker.com/blog/web-security/server-side-request-forgery-vulnerability-ssrf/)
+
 - [EdOverflow - Bugbounty-Cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md)
 
 - [@ONsec_lab SSRF pwns: New techniques and stories](https://conference.hitb.org/hitbsecconf2013ams/materials/D1T1%20-%20Vladimir%20Vorontsov%20and%20Alexander%20Golovko%20-%20SSRF%20PWNs%20-%20New%20Techniques%20and%20Stories.pdf)
@@ -54,7 +56,6 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 - [CTF Wiki -  SSRF Introduction](https://ctf-wiki.github.io/ctf-wiki/web/ssrf/)
 
 - [Orangetw - CTF SSRF Writeup](https://github.com/orangetw/My-CTF-Web-Challenges/blob/master/README.md#ssrfme)
-
 
 #### Writeups
 
