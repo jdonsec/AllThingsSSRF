@@ -149,6 +149,7 @@ Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us
 - [Contribution by $root: Whomai -  Harsh Jaiswal: Vimeo SSRF with code execution potential.](https://medium.com/@rootxharsh_90844/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)
 
 - [Agarri: Server-side browsing considered harmful](https://www.agarri.fr/docs/AppSecEU15-Server_side_browsing_considered_harmful.pdf)
+- [Assetnote: A Glossary of Blind SSRF Chains](https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/)
 
 #### Hackerone Reports
 
